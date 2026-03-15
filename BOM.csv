@@ -1,4 +1,4 @@
 ﻿NAME,PURPOSE,COST,QTY,TOTAL,LINK,DISTRIBUTOR
-OUTEMU MX SWITCHES,"	Switches", $1.00 ,1, $1.00 ,Here,"	Aliexpress"
-"TFT Display 1.8""","	Display", $8.08 ,1, $8.08 ,Here,"	Do IT Smart"
-ESP32 C3-MINI LOLIN,"	Microcontroller", $8.74 ,1, $8.74 ,Here,"	Hestore"
+OUTEMU MX SWITCHES,"	Switches",$1.00 ,1,$1.00 ,https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=1005004285423123&_immersiveMode=true&withMainCard=true&src=google&aff_platform=true&isdl=y,"	Aliexpress"
+"TFT Display 1.8""","	Display",$8.08 ,1,$9.00 ,https://www.doitsmart.hu/index.php/termek/1-8-os-tft-kijelzo-modul-st7735-128x160-pixel-sd-kartyaolvasoval/,"	Do IT Smart"
+ESP32 C3-MINI LOLIN,"	Microcontroller",$11.41 ,1,$8.74 ,https://www.hestore.hu/prod_10047018.html,"	Hestore"
